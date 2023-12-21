@@ -1,4 +1,4 @@
-# The Invasion: An Open World RPG
+# The Invasion (alpha v0.01)
 
 ## Elevator Pitch:
   Stylistically inspired by Dwarf Fortress and command line programs like Radare2,
@@ -15,7 +15,7 @@ an open-world RPG with gameplay heavily influenced by early Fallout games and th
 ### Structure:
   #### resources
   Contains JSON files defining the types of entities, items, and tiles in the game.
-  Also contains the map_data directory containing the starting locations and states
+  Also contains the **map_data** directory, containing the starting locations and states
   of all the tiles/entities for each map.
   #### saves
   Each saved game is an individual JSON file containing the state of the player and map,
