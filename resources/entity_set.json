@@ -1,0 +1,56 @@
+{
+    "containers": {
+        "crate_wooden": {
+            "symbol": "☒",
+            "colour": [255,255,0],
+            "max_inventory": 9,
+            "lockable": false,
+            "description": "A wooden crate."
+        },
+        "barrel_wooden": {
+            "symbol": "U",
+            "colour": [255,255,0],
+            "max_inventory": 12,
+            "lockable": false,
+            "description": "An oak barrel."
+        },
+        "chest_wooden": {
+            "symbol": "⏍",
+            "colour": [255,255,0],
+            "max_inventory": 16,
+            "lockable": true,
+            "description": "An old wooden chest."
+        }
+    },
+    "doors": {
+        "door_wooden": {
+            "symbol": "⍓",
+            "colour": [255,255,0],
+            "description": "A wooden door."
+        },
+        "door_iron": {
+            "symbol": "⌺",
+            "colour": [128,128,128],
+            "description": "A heavy iron door."
+        }
+    },
+    "mobs": {
+        "goat": {
+            "symbol": "♈︎",
+            "colour": [128,32,16],
+            "hitpoints": 15,
+            "stamina": 30,
+            "base_dmg": 2,
+            "max_inventory": 3,
+            "faction": "Gaia",
+            "description": "A wild mountain goat."
+        }
+    },
+    "decorations": {
+        "flower_yellow": {
+            "symbol": "*",
+            "colour": [255,255,0],
+            "description": "A pretty dandelion."
+        }
+    }
+}

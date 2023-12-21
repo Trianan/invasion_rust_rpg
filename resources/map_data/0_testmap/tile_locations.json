@@ -1,0 +1,14 @@
+{
+    "grass": [],
+    "dirt": [],
+    "sand": [],
+    "water_shallow": [],
+    "water_mid": [],
+    "water_deep": [],
+    "cliff": [],
+    "wall_palisade": [],
+    "wall_stone": [],
+    "floor_wood": [],
+    "floor_tile": [],
+    "void": []
+}

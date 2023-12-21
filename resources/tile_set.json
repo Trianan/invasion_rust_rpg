@@ -1,0 +1,86 @@
+{
+    "grass": {
+        "symbol": ",",
+        "colour": [0,255,0],
+        "ground": true,
+        "dps": 0.0,
+        "description": "A patch of soft grass."
+    },
+    "dirt": {
+        "symbol": ".",
+        "colour": [255,0,255],
+        "ground": true,
+        "dps": 0.0,
+        "description": "Bare earth."
+    },
+    "sand": {
+        "symbol": ".",
+        "colour": [255,0,255],
+        "ground": true,
+        "dps": 0.0,
+        "description": "Loose sand."
+    },
+    "water_shallow": {
+        "symbol": "~",
+        "colour": [0,255,0],
+        "ground": true,
+        "dps": 0.0,
+        "description": "Water, no deeper than your knees."
+    },
+    "water_mid": {
+        "symbol": "~",
+        "colour": [0,128,0],
+        "ground": false,
+        "dps": 0.0,
+        "description": "Blue water active with currents."
+    },
+    "water_deep": {
+        "symbol": "~",
+        "colour": [0,64,0],
+        "ground": false,
+        "dps": 0.0,
+        "description": "Deep water with a heavy undertow."
+    },
+    "cliff": {
+        "symbol": "#",
+        "colour": [64,64,64],
+        "ground": false,
+        "dps": 0.0,
+        "description": "Imposing natural walls of rock."
+    },
+    "wall_palisade": {
+        "symbol": "◼︎",
+        "colour": [128,128,0],
+        "ground": false,
+        "dps": 0.0,
+        "description": "A barricade made of axe-sharpened logs."
+    },
+    "wall_stone": {
+        "symbol": "◼︎",
+        "colour": [128,128,128],
+        "ground": false,
+        "dps": 0.0,
+        "description": "Massive walls of chiseled-stone blocks."
+    },
+    "floor_wood": {
+        "symbol": "=",
+        "colour": [255,0,255],
+        "ground": true,
+        "dps": 0.0,
+        "description": "Rustic hardwood flooring."
+    },
+    "floor_tile": {
+        "symbol": "+",
+        "colour": [64,64,64],
+        "ground": true,
+        "dps": 0.0,
+        "description": "Worn stone tiles."
+    },
+    "void": {
+        "symbol": " ",
+        "colour": [0,0,0],
+        "ground": false,
+        "dps": 1000.0,
+        "description": "The absence of space-time."
+    }
+}

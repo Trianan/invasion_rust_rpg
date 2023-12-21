@@ -1,0 +1,19 @@
+{
+    "last_modified": "Wed 20 Dec 2023 19:54:27 EST",
+    "player_name": "Jimothy",
+    "current_level": "0_testmap",
+    "current_objective": 0,
+    "current_location": {"x": 100, "y": 100},
+    "inventory": [],
+    "hitpoints": 100,
+    "stamina": 50,
+    "base_dmg": 1,
+    "equipped": {
+        "head": "leather cap",
+        "torso": "cotton tunic",
+        "legs": "cotton pants",
+        "feet": "leather boots",
+        "hand_r": "rusty dagger",
+        "hand_l": "wooden buckler"
+    }
+}
