@@ -21,10 +21,8 @@ an open-world RPG with gameplay heavily influenced by early Fallout games and th
   Each saved game is an individual JSON file containing the state of the player and map,
   ensuring the player can save/load their progress.
   #### src
-  Contains the logic for the game.
-    ##### main.rs
-    Logic for the main game loop; loads current map and save data, updates state of all entities,
-    listens/responds to player input, writes to save files.
+  Contains the game logic, such as:
+  - **main.rs**: the main game loop.
 
 ### External Dependencies:
 - [Macroquad](https://macroquad.rs/)
