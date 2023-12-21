@@ -1,8 +1,8 @@
 {
     "last_modified": "Wed 20 Dec 2023 19:54:27 EST",
     "player_name": "Jimothy",
-    "current_level": "0_testmap",
-    "current_objective": 0,
+    "current_map": "testmap",
+    "current_mission": 0,
     "current_location": {"x": 100, "y": 100},
     "inventory": [],
     "hitpoints": 100,
